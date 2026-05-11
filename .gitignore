@@ -23,6 +23,10 @@ dist
 supabase/.branches
 supabase/.temp
 
+# Local planning prompts
+agents
+ai_prompt_website_phase_prompts
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
